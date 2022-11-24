@@ -1,0 +1,14 @@
+C:\Users\mgalv\source\repos\EntityAndCRUD\DAL\bin\Debug\DAL.dll
+C:\Users\mgalv\source\repos\EntityAndCRUD\DAL\bin\Debug\DAL.pdb
+C:\Users\mgalv\source\repos\EntityAndCRUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mgalv\source\repos\EntityAndCRUD\DAL\obj\Debug\DAL.dll
+C:\Users\mgalv\source\repos\EntityAndCRUD\DAL\obj\Debug\DAL.pdb
+C:\Users\mgalv\source\repos\EntityAndCRUD\DAL\bin\Debug\ToDoList.mdf
+C:\Users\mgalv\source\repos\EntityAndCRUD\DAL\bin\Debug\ToDoList_log.ldf
+C:\Users\mgalv\source\repos\EntityAndCRUD\DAL\bin\Debug\DAL.dll.config
+C:\Users\mgalv\source\repos\EntityAndCRUD\DAL\bin\Debug\EntityFramework.dll
+C:\Users\mgalv\source\repos\EntityAndCRUD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mgalv\source\repos\EntityAndCRUD\DAL\bin\Debug\EntityFramework.xml
+C:\Users\mgalv\source\repos\EntityAndCRUD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mgalv\source\repos\EntityAndCRUD\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\mgalv\source\repos\EntityAndCRUD\DAL\obj\Debug\DAL.csproj.CopyComplete

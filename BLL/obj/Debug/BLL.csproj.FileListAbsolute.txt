@@ -1,0 +1,17 @@
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\bin\Debug\BLL.dll
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\bin\Debug\BLL.pdb
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\bin\Debug\DAL.dll
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\bin\Debug\DAL.pdb
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\obj\Debug\BLL.dll
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\obj\Debug\BLL.pdb
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\bin\Debug\ToDoList.mdf
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\bin\Debug\ToDoList_log.ldf
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\bin\Debug\BLL.dll.config
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\bin\Debug\EntityFramework.dll
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\bin\Debug\DAL.dll.config
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\bin\Debug\EntityFramework.xml
+C:\Users\mgalv\source\repos\EntityAndCRUD\BLL\bin\Debug\EntityFramework.SqlServer.xml

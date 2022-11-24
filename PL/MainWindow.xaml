@@ -1,0 +1,55 @@
+﻿<Window x:Class="PL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="850">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel>
+            <TextBlock Text="To do list" FontSize="30" Height="40" FontWeight="Bold" HorizontalAlignment="Center"/>
+            <TextBlock Text="--------------" FontSize="30" Height="40" FontWeight="Bold" HorizontalAlignment="Center"/>
+            <TextBlock Text=" - Categorias" FontSize="22" Height="40" FontWeight="Bold"/>
+            <Button 
+                x:Name="btnListarCat" 
+                Content="Listar Categorias" 
+                Width="200" 
+                Height="40"
+                VerticalAlignment="Top"
+                HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Click="BtnListarCat_Click"
+            />
+            <Button 
+                x:Name="btnAgregarCat" 
+                Content="Agregar Categoría" 
+                Width="200" 
+                Height="40"
+                VerticalAlignment="Top"
+                HorizontalAlignment="Left" Click="BtnAgregarCat_Click" Background="{x:Null}" BorderBrush="{x:Null}"
+            />
+            <Button 
+                x:Name="btnEliminarCat" 
+                Content="Eliminar Categoria" 
+                Width="200" 
+                Height="40"
+                VerticalAlignment="Top"
+                HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}"
+            />
+                
+            <TextBlock Text=" - Tareas" FontSize="22" Height="40" FontWeight="Bold"/>
+
+
+        </StackPanel>
+        
+        <Grid x:Name="grdMain" Grid.Column="1">
+        
+        </Grid>
+        
+    </Grid>
+
+</Window>
